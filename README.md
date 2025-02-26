@@ -19,4 +19,4 @@ You can download the app from the [releases section](https://github.com/ganarcas
 
 ## Changelog
 
-All updates and changes to the app can be found in the [CHANGELOG.md](changelog.md).
+All updates and changes to the app can be found in the [CHANGELOG.md](https://github.com/ganarcasas/Jeky-Browser/blob/main/CHANGELOG.md).
